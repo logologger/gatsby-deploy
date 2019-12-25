@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Bl7J"),c=a("hIod");t.default=function(){return l.a.createElement("div",null,l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact "),l.a.createElement("p",null," The best way to reach me is via ",l.a.createElement("a",{href:"https://twitter.com/@nshoaba",target:"_blank"},"twitter"))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-f796ae1dc805752b3eb6.js.map
